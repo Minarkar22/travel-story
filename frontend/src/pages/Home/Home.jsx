@@ -165,7 +165,7 @@ const Home = () => {
             ) : (
               <EmptyCard
                 imgSrc={EmptyImg}
-                message={`Start creating your first Travel Story! Click the 'Add' button to write down your thoughts, ideas, and memories. Let's get started!`}
+                message={`Start creating your first Travel Story! Click the 'Add' button to write down your thoughts, ideas, and memories. Let's get started! and welcome.`}
               />
             )}
           </div>
